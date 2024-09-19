@@ -1,13 +1,25 @@
 ---
 permalink: /
-title: "Bonjour!"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello, I'm Kawshik Banerjee, graduated from [Rajshahi University of Engineering & Technology](https://ruet.ac.bd/) majoring in Computer Science, with a strong interest on Natural Language Processing and its applications. My undergraduate research, advised by [Md. Azmain Yakin Srizon](https://scholar.google.com/citations?user=6zXjgsEAAAAJ&hl=en) focused on analyzing the evolution of word associations over a 13-year period through machine learning and statistical analysis.
+
+I'm also working with [Dr. Nur Ahmed](https://www.nurahmed.com/home) in a multi-diciplinary research lab. Our [recent work](https://arxiv.org/abs/2405.12193) examines how the industry engages with responsible AI and incorporates it into their products.
+
+Alongside my research, I'm also working as a Jr. Software Engineer at [Pridesys IT. Ltd.](https://pridesys.com/), focusing on full-stack software development.
+
+## News
+
+- [Sep 2024] Our work got featured in a [Nature Index article](https://www.nature.com/articles/d41586-024-02985-3).
+- [May 2024] Our preprint, [The Narrow Depth and Breadth of Corporate Responsible AI Research](https://arxiv.org/abs/2405.12193), is available online.
+
+<!-- default texts; safe to comment out -->
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 # A data-driven personal website
 
@@ -45,4 +57,4 @@ Example: editing a markdown file for a talk
 
 ## For more info
 
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
