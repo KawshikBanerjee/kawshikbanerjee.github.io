@@ -13,10 +13,11 @@ I'm also working with [Dr. Nur Ahmed](https://www.nurahmed.com/home) in a multi-
 
 Alongside my research, I'm also working as a Jr. Software Engineer at [Pridesys IT. Ltd.](https://pridesys.com/), focusing on full-stack software development.
 
-## News
+## Recent updates
 
 - [Sep 2024] Our work got featured in a [Nature Index article](https://www.nature.com/articles/d41586-024-02985-3).
 - [May 2024] Our preprint, [The Narrow Depth and Breadth of Corporate Responsible AI Research](https://arxiv.org/abs/2405.12193), is available online.
+- [Apr 2024] Our work on responsible AI got accepted at [ICSSI](https://www.icssi.org/) 2024 as a contributed talk.
 
 <!-- default texts; safe to comment out -->
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
