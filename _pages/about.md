@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Kawshik Banerjee, graduated from [Rajshahi University of Engineering & Technology](https://ruet.ac.bd/) majoring in Computer Science, with a strong interest on Natural Language Processing and its applications. My undergraduate research, advised by [Md. Azmain Yakin Srizon](https://scholar.google.com/citations?user=6zXjgsEAAAAJ&hl=en) focused on analyzing the evolution of word associations over a 13-year period through machine learning and statistical analysis.
+Hello, I'm Kawshik Banerjee, graduated from [Rajshahi University of Engineering & Technology](https://ruet.ac.bd/) majoring in Computer Science, with a strong interest on Natural Language Processing and its applications in various setting. My [undergraduate research]({{ site.baseurl }}{% link _pages/research.html %}#embedding-regression), advised by [Md. Azmain Yakin Srizon](https://scholar.google.com/citations?user=6zXjgsEAAAAJ&hl=en) focused on assessing the evolution of word associations depending on context, over a 13-year period through machine learning and statistical analysis.
 
 I'm also working with [Dr. Nur Ahmed](https://www.nurahmed.com/home) in a multi-diciplinary research lab. Our [recent work](https://arxiv.org/abs/2405.12193) examines how the industry engages with responsible AI and incorporates it into their products.
 

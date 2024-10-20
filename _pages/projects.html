@@ -1,0 +1,126 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+<style>
+  .projects-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  .project-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+  }
+  .project-card:hover {
+    transform: scale(1.03);
+  }
+  .project-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  .project-info {
+    padding: 15px;
+  }
+  .project-title {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  .project-title a {
+    color: #000;
+    text-decoration: none;
+  }
+  .project-title a:hover {
+    text-decoration: underline;
+  }
+  .project-description {
+    font-size: 0.9em;
+    color: #666;
+  }
+  @media (max-width: 768px) {
+    .projects-container {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<h2>Research Projects</h2>
+
+<div class="projects-container">
+  <div class="project-card">
+    <img
+      src="/images/plagiarism.webp"
+      alt="Comparing Text Similarity Checking Algorithms"
+      class="project-image"
+    />
+    <div class="project-info">
+      <h3 class="project-title">
+        <a
+          href="https://github.com/KawshikBanerjee/Sinhala-Text-Similarity-Analysis"
+        >
+          Comparing Text Similarity Checking Algorithms
+        </a>
+      </h3>
+      <p class="project-description">
+        Performance comparison of two popular text similarity checking
+        algorithms &mdash; cosine similarity and word mover's distance &mdash;
+        on a low resource language like Sinhalese.
+      </p>
+    </div>
+  </div>
+</div>
+
+<h2>Academic Projects</h2>
+
+<div class="projects-container">
+  <div class="project-card">
+    <img src="/images/compiler" alt="Compiler" class="project-image" />
+    <div class="project-info">
+      <h3 class="project-title">
+        <a
+          href="https://github.com/KawshikBanerjee/CSE-4102-Compiler-Design-Lab"
+        >
+          Yet Another Compiler
+        </a>
+      </h3>
+      <p class="project-description">
+        A basic compiler implementing all the steps of program compilation from
+        lexical analyzer to assembly code generation, written in C from scratch.
+      </p>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <img src="/images/blogsite" alt="Blog website" class="project-image" />
+    <div class="project-info">
+      <h3 class="project-title">
+        <a href="https://github.com/KawshikBanerjee/EshoLikhi">
+          Blog Website
+        </a>
+      </h3>
+      <p class="project-description">
+        A fully fledged blog website built using the Django framework.
+      </p>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <img src="/images/deathstar" alt="Shooting game" class="project-image" />
+    <div class="project-info">
+      <h3 class="project-title">
+        <a href="https://github.com/KawshikBanerjee/alien_invasion">
+          Alien Invasion
+        </a>
+      </h3>
+      <p class="project-description">
+        A first-person 2D space shooter game, built from scratch using PyGame.
+      </p>
+    </div>
+  </div>
+</div>
