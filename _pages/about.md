@@ -11,7 +11,13 @@ Hello, I'm Kawshik Banerjee, graduated from [Rajshahi University of Engineering 
 
 I'm also working with [Dr. Nur Ahmed](https://www.nurahmed.com/home) in a multi-diciplinary research lab. Our [recent work](https://arxiv.org/abs/2405.12193) examines how the industry engages with responsible AI and incorporates it into their products.
 
-Alongside my research, I'm also working as a Jr. Software Engineer at [Pridesys IT. Ltd.](https://pridesys.com/), focusing on full-stack software development.
+<!-- Alongside my research, I'm also working as a Jr. Software Engineer at [Pridesys IT. Ltd.](https://pridesys.com/), focusing on full-stack software development. -->
+
+Research interests:
+
+- Natural Language Processing
+- Computational Linguistics
+- Responsible AI
 
 ## Recent updates
 
