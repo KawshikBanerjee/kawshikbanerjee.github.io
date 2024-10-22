@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Kawshik Banerjee, graduated from [Rajshahi University of Engineering & Technology](https://ruet.ac.bd/) majoring in Computer Science, with a strong interest on Natural Language Processing and its applications in various setting. My [undergraduate research]({{ site.baseurl }}{% link _pages/research.html %}#embedding-regression), advised by [Md. Azmain Yakin Srizon](https://scholar.google.com/citations?user=6zXjgsEAAAAJ&hl=en) focused on assessing the evolution of word associations depending on context, over a 13-year period through machine learning and statistical analysis.
+Hello, I'm Kawshik Banerjee, graduated from [Rajshahi University of Engineering & Technology](https://ruet.ac.bd/) majoring in Computer Science, with a strong interest on Natural Language Processing and its applications in various setting. My [undergraduate research]({{ site.baseurl }}{% link _pages/research.html %}#embedding-regression) focused on assessing the evolution of word associations with varying context, over a 13-year period using machine learning and statistical analysis.
 
 I'm also working with [Dr. Nur Ahmed](https://www.nurahmed.com/home) in a multi-diciplinary research lab. Our [recent work](https://arxiv.org/abs/2405.12193) examines how the industry engages with responsible AI and incorporates it into their products.
 
@@ -19,11 +19,11 @@ Research interests:
 - Computational Linguistics
 - Responsible AI
 
-## Recent updates
+# Recent updates
 
-- [Sep 2024] Our work got featured in a [Nature Index article](https://www.nature.com/articles/d41586-024-02985-3).
-- [May 2024] Our preprint, [The Narrow Depth and Breadth of Corporate Responsible AI Research](https://arxiv.org/abs/2405.12193), is available online.
-- [Apr 2024] Our work on responsible AI got accepted at [ICSSI](https://www.icssi.org/) 2024 as a contributed talk.
+- [Sep 2024] Our work got **featured** in a [Nature Index](https://www.nature.com/articles/d41586-024-02985-3) article.
+- [May 2024] Our preprint, [The Narrow Depth and Breadth of Corporate Responsible AI Research](https://arxiv.org/abs/2405.12193), is **available online**.
+- [Apr 2024] Our work on responsible AI got **accepted** at [ICSSI](https://www.icssi.org/) 2024 as a contributed talk.
 
 <!-- default texts; safe to comment out -->
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
