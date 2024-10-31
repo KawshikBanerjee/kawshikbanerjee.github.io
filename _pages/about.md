@@ -7,17 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Kawshik Banerjee, graduated from [Rajshahi University of Engineering & Technology](https://ruet.ac.bd/) majoring in Computer Science, with a strong interest on Natural Language Processing and its applications in various setting. My [undergraduate research]({{ site.baseurl }}{% link _pages/research.html %}#embedding-regression) focused on assessing the evolution of word associations with varying context, over a 13-year period using machine learning and statistical analysis.
+Hello, I'm Kawshik Banerjee, a recent Computer Science graduate from [Rajshahi University of Engineering & Technology](https://ruet.ac.bd/) with a strong interest in **Natural Language Processing, Computational Linguistics,** and **Responsible AI**.
 
-I'm also working with [Dr. Nur Ahmed](https://www.nurahmed.com/home) in a multi-diciplinary research lab. Our [recent work](https://arxiv.org/abs/2405.12193) examines how the industry engages with responsible AI and incorporates it into their products.
+Fascinated by the ever-evolving nature of language, my [undergraduate research]({{ site.baseurl }}{% link _pages/research.html %}#embedding-regression) focused on assessing how our understanding, usage, and the association of racial and ethnic stereotypical terms have shifted over a 13-year period using embedding regression on social media data.
+
+Currently, I'm collaborating with [Dr. Nur Ahmed](https://www.nurahmed.com/home) in a multidiciplinary research lab. Our [recent work](https://arxiv.org/abs/2405.12193) examines the extent of the industry's engagement with responsible AI, its incorporation into products, and how the Global South is largely overlooked in the process.
 
 <!-- Alongside my research, I'm also working as a Jr. Software Engineer at [Pridesys IT. Ltd.](https://pridesys.com/), focusing on full-stack software development. -->
 
-Research interests:
+<!-- Research interests:
 
 - Natural Language Processing
 - Computational Linguistics
-- Responsible AI
+- Responsible AI -->
 
 # Recent updates
 
