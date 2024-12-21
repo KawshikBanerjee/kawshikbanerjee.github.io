@@ -23,7 +23,8 @@ Currently, I'm collaborating with [Dr. Nur Ahmed](https://www.nurahmed.com/home)
 
 # Recent updates
 
-- [Sep 2024] Our work got **featured** in a [Nature Index](https://www.nature.com/articles/d41586-024-02985-3) article.
+- [Dec 2024] [Montreal AI Ethics Institute](https://montrealethics.ai/the-narrow-depth-and-breadth-of-corporate-responsible-ai-research/) **covered** our work.
+- [Sep 2024] Our work got **featured** in [Nature Index](https://www.nature.com/articles/d41586-024-02985-3) and [Nature News Feature](https://www.nature.com/articles/d41586-024-02832-5).
 - [May 2024] Our preprint, [The Narrow Depth and Breadth of Corporate Responsible AI Research](https://arxiv.org/abs/2405.12193), is **available online**.
 - [Apr 2024] Our work on responsible AI got **accepted** at [ICSSI](https://www.icssi.org/) 2024 as a contributed talk.
 
