@@ -7,19 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+<!-- to run the project: jekyll serve -l -H localhost -->
+
 Hello, I'm Kawshik Banerjee, a recent Computer Science graduate from [Rajshahi University of Engineering & Technology](https://ruet.ac.bd/) with a strong interest in **Natural Language Processing, Computational Linguistics,** and **Responsible AI**.
 
 Fascinated by the ever-evolving nature of language, my [undergraduate research]({{ site.baseurl }}{% link _pages/research.html %}#embedding-regression) focused on assessing how our understanding, usage, and the association of racial and ethnic stereotypical terms have shifted over a 13-year period using embedding regression on social media data.
 
-Currently, I'm collaborating with [Dr. Nur Ahmed](https://www.nurahmed.com/home) in a multidiciplinary research lab. Our [recent work](https://arxiv.org/abs/2405.12193) examines the extent of the industry's engagement with responsible AI, its incorporation into products, and how the Global South is largely overlooked in the process.
-
-<!-- Alongside my research, I'm also working as a Jr. Software Engineer at [Pridesys IT. Ltd.](https://pridesys.com/), focusing on full-stack software development. -->
-
-<!-- Research interests:
-
-- Natural Language Processing
-- Computational Linguistics
-- Responsible AI -->
+Currently, I'm collaborating with [Dr. Nur Ahmed](https://www.nurahmed.com/home) in a multidiciplinary research lab. Our [recent work](https://arxiv.org/abs/2405.12193) examines the extent of the industry's engagement with responsible AI, its incorporation into products and the adverse consequences.
 
 # Recent updates
 
