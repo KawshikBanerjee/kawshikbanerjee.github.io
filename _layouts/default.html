@@ -1,31 +1,259 @@
----
-layout: compress
----
-
-{% include base_path %}
-
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<html lang="en">
   <head>
-    {% include head.html %}
-    {% include head/custom.html %}
+    <!-- Google tag (gtag.js) -->
+    <!-- <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-E00L9PT3V9"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-E00L9PT3V9");
+    </script> -->
+    <title>{{ site.name }}</title>
+
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+
+    <meta name="author" content="{{ site.name }}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ site.baseurl }}/style.css"
+    />
+    <link
+      rel="canonical"
+      href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- <link
+      href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic"
+      rel="stylesheet"
+      type="text/css"
+    /> -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+      rel="stylesheet"
+      type="text/css"
+    />
   </head>
 
   <body>
+    <table
+      style="
+        width: 100%;
+        max-width: 800px;
+        border: 0px;
+        border-spacing: 0px;
+        border-collapse: separate;
+        margin-right: auto;
+        margin-left: auto;
+      "
+    >
+      <tr style="padding: 0px">
+        <td style="padding: 0px">
+          <table
+            style="
+              width: 100%;
+              border: 0px;
+              border-spacing: 0px;
+              border-collapse: separate;
+              margin-right: auto;
+              margin-left: auto;
+            "
+          >
+            <tr style="padding: 0px">
+              <td style="padding: 2.5%; width: 60%; vertical-align: middle">
+                <h1><b>Kawshik Banerjee</b></h1>
+                <p>
+                  I am a PhD student in Computer Science at
+                  <a href="https://siu.edu/">Southern Illinois University</a>,
+                  Carbondale, IL. Currently I'm working at SIU's
+                  <a href="https://soc.siu.edu/">School of Computing</a> as a
+                  Graduate Teaching Assistant.
+                </p>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+                <p>
+                  I completed my undergrad in
+                  <a href="https://www.cse.ruet.ac.bd/"
+                    >Computer Science and Engineering</a
+                  >
+                  from
+                  <a href="https://www.ruet.ac.bd/"
+                    >Rajshahi University of Engineering & Technology</a
+                  >, where I was fortunate to be advised by Mr.
+                  <a
+                    href="https://scholar.google.com/citations?user=6zXjgsEAAAAJ&hl=en"
+                    >Azmain Yakin Srizon</a
+                  >. Fascinated by the ever-evolving nature of language, my
+                  undergrad thesis focused on assessing how our understanding,
+                  usage, and the association of racial and ethnic stereotypical
+                  terms have shifted over a 13-year period on social media data.
+                </p>
 
-    {{ content }}
+                <p>
+                  My research has previously been featured in
+                  <a href="https://www.nature.com/articles/d41586-024-02985-3"
+                    >Nature Index</a
+                  >
+                  and
+                  <a href="https://www.nature.com/articles/d41586-024-02832-5"
+                    >Nature News</a
+                  >.
+                </p>
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
+                <!-- <p>
+                  In between academics, from 2023 to 2025, I worked as a
+                  Software Engineer at
+                  <a href="https://pridesys.com/">Pridesys IT Ltd.</a> where my
+                  work helped automating business for enterprise-scale
+                  handicraft and RMG groups of industries.
+                </p> -->
+              </td>
+              <td
+                style="
+                  padding: 2.5%;
+                  width: 40%;
+                  max-width: 40%;
+                  text-align: center;
+                "
+              >
+                <img
+                  style="width: 75%; max-width: 100%"
+                  alt="profile photo"
+                  src="images/kawshik.jpeg"
+                />
+                <!-- Contact links -->
+                <p style="text-align: center">
+                  <a target="_blank" href="mailto:kawshik.banerjee@siu.edu">
+                    Email</a
+                  >
+                  &nbsp;/&nbsp;
+                  <a href="https://github.com/KawshikBanerjee">GitHub</a>
+                  &nbsp;/&nbsp;
+                  <a
+                    href="https://scholar.google.com/citations?user=n4zpq6YAAAAJ"
+                    >Scholar</a
+                  >
+                  &nbsp;/&nbsp;
+                  <a href="https://www.linkedin.com/in/kawshikbanerjee2024">
+                    LinkedIn
+                  </a>
+                </p>
+              </td>
+            </tr>
+          </table>
 
-    {% include scripts.html %}
+          <table
+            style="
+              width: 100%;
+              border: 0px;
+              border-spacing: 0px;
+              border-collapse: separate;
+              margin-right: auto;
+              margin-left: auto;
+            "
+          >
+            <tr>
+              <td style="padding: 2.5%; width: 100%; vertical-align: middle">
+                <h2>Selected Publications</h2>
+                <p>
+                  Complete list is available at
+                  <a
+                    href="https://scholar.google.com/citations?user=n4zpq6YAAAAJ"
+                    >Google Scholar</a
+                  >.
+                </p>
+              </td>
+            </tr>
+          </table>
+          <table
+            style="
+              width: 100%;
+              border: 0px;
+              border-spacing: 0px;
+              border-collapse: separate;
+              margin-right: auto;
+              margin-left: auto;
+            "
+          >
+            {% for post in site.posts %} {% for cat in post.categories %} {% if
+            cat == 'research' %}
+            <tr>
+              <td
+                style="
+                  padding: 2.5%;
+                  width: 25%;
+                  vertical-align: middle;
+                  min-width: 120px;
+                "
+              >
+                <img
+                  src="/tn{{post.image}}"
+                  alt="project image"
+                  style="width: auto; height: auto; max-width: 100%"
+                />
+              </td>
+              <td style="padding: 2.5%; width: 75%; vertical-align: middle">
+                <h3>{{post.title}}</h3>
+                <br />
+                {{post.authors}}
 
+                <br />
+                <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+                <br />
+                {% if post.arxiv %}
+                <a href="{{post.arxiv}}">arxiv</a> {% endif %} {% if post.video
+                %} / <a href="{{post.video}}">video</a> / {% endif %} {% if
+                post.code %} <a href="{{post.code}}">code</a> / {% endif %} {%
+                if post.poster %} <a href="{{post.poster}}">poster</a> / {%
+                endif %} {% if post.slides %}
+                <a href="{{post.slides}}">slides</a> / {% endif %} {% if
+                post.website %} <a href="{{post.website}}">website</a> / {%
+                endif %} {% if post.youtube %}
+                <a href="{{post.youtube}}">youtube</a> / {% endif %}
+                <p></p>
+                {{ post.excerpt }}
+              </td>
+            </tr>
+            {% endif %} {% endfor %} {% endfor %}
+          </table>
+          <br />
+          <br />
+          <br />
+
+          <table
+            style="
+              width: 100%;
+              border: 0px;
+              border-spacing: 0px;
+              border-collapse: separate;
+              margin-right: auto;
+              margin-left: auto;
+            "
+          >
+            <tr>
+              <td style="padding: 0px">
+                <br />
+                <p style="text-align: center; font-size: small">
+                  Modified <a href="https://leonidk.com/">Lionid</a>'s
+                  implementation of
+                  <a style="font-size: small" href="https://jonbarron.info"
+                    >Jon</a
+                  >'s design in <a href="https://jekyllrb.com/">Jekyll</a>.
+                </p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
   </body>
 </html>

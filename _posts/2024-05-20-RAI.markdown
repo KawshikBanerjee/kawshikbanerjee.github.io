@@ -1,0 +1,14 @@
+---
+layout: post
+title: "The Narrow Depth and Breadth of Corporate Responsible AI Research"
+date: 2024-05-20 00:00:00 +00:00
+image: /images/res-ai-scibert.png
+categories: research
+authors: "Nur Ahmed, Amit Das, Kirsten Martin, <strong>Kawshik Banerjee</strong>"
+venue: "3rd International Conference of Science of Science"
+arxiv: https://arxiv.org/abs/2405.12193
+# code: https://github.com/leonidk/fmb-plus
+# website: https://leonidk.github.io/fmb-plus
+---
+
+Using 6+ million peer-reviewed papers and 32+ million patent-to-paper citations, we systematically show that industry has a limited engagement in responsible AI research, despite dominating in conventional "cutting-edge" AI research.
