@@ -73,29 +73,30 @@
               <td style="padding: 2.5%; width: 60%; vertical-align: middle">
                 <h1><b>Kawshik Banerjee</b></h1>
                 <p>
-                  I am a PhD student in Computer Science at
-                  <a href="https://siu.edu/">Southern Illinois University</a>,
-                  Carbondale, IL. Currently I'm working at SIU's
-                  <a href="https://soc.siu.edu/">School of Computing</a> as a
-                  Graduate Teaching Assistant.
+                  I'm a PhD student in Computer Science at
+                  <a href="https://siu.edu/"
+                    >Southern Illinois University Carbondale</a
+                  >, advised by
+                  <a
+                    href="https://faculty.siu.edu/profiles/q-s/saifuddin-khaled-mohammed.php"
+                    >Dr. Khaled M. Saifuddin</a
+                  >. My current research focuses on graph learning and
+                  multimodal learning.
                 </p>
 
                 <p>
-                  I completed my undergrad in
-                  <a href="https://www.cse.ruet.ac.bd/"
-                    >Computer Science and Engineering</a
-                  >
+                  I completed my undergrad in Computer Science and Engineering
                   from
                   <a href="https://www.ruet.ac.bd/"
                     >Rajshahi University of Engineering & Technology</a
-                  >, where I was fortunate to be advised by Mr.
+                  >, where I was advised by
                   <a
                     href="https://scholar.google.com/citations?user=6zXjgsEAAAAJ&hl=en"
                     >Azmain Yakin Srizon</a
-                  >. Fascinated by the ever-evolving nature of language, my
-                  undergrad thesis focused on assessing how our understanding,
-                  usage, and the association of racial and ethnic stereotypical
-                  terms have shifted over a 13-year period on social media data.
+                  >. My undergrad thesis focused on assessing how our
+                  understanding, usage, and the association of racial and ethnic
+                  stereotypical terms have shifted over more than a decade using
+                  social media data.
                 </p>
 
                 <p>
@@ -163,7 +164,7 @@
           >
             <tr>
               <td style="padding: 2.5%; width: 100%; vertical-align: middle">
-                <h2>Selected Publications</h2>
+                <h2>Recent Work</h2>
                 <p>
                   Complete list is available at
                   <a
@@ -210,15 +211,9 @@
                 <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
                 <br />
                 {% if post.arxiv %}
-                <a href="{{post.arxiv}}">arxiv</a> {% endif %} {% if post.video
-                %} / <a href="{{post.video}}">video</a> / {% endif %} {% if
-                post.code %} <a href="{{post.code}}">code</a> / {% endif %} {%
-                if post.poster %} <a href="{{post.poster}}">poster</a> / {%
-                endif %} {% if post.slides %}
-                <a href="{{post.slides}}">slides</a> / {% endif %} {% if
-                post.website %} <a href="{{post.website}}">website</a> / {%
-                endif %} {% if post.youtube %}
-                <a href="{{post.youtube}}">youtube</a> / {% endif %}
+                <a href="{{post.arxiv}}">arxiv</a> | {% endif %} {% if
+                post.paper %} <a href="{{post.paper}}">paper</a> | {% endif %}
+                {% if post.code %} <a href="{{post.code}}">code</a> {% endif %}
                 <p></p>
                 {{ post.excerpt }}
               </td>

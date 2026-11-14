@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "The Narrow Depth and Breadth of Corporate Responsible AI Research"
-date: 2024-05-20 00:00:00 +00:00
-image: /images/res-ai-scibert.png
+title: "Does Graph Compression Preserve Signal Propagation?"
+date: 2026-10-07 00:00:00 +00:00
+image: /images/icmla26.png
 categories: research
-authors: "Nur Ahmed, Amit Das, Kirsten Martin, <strong>Kawshik Banerjee</strong>"
-venue: "3rd International Conference of Science of Science"
-arxiv: https://arxiv.org/abs/2405.12193
-# code: https://github.com/leonidk/fmb-plus
+authors: "<strong>Kawshik Banerjee</strong>, Khaled Mohammed Saifuddin"
+venue: "IEEE ICMLA"
+paper: https://ieeexplore.ieee.org/abstract/document/11760813
+# arxiv: https://arxiv.org/abs/2405.12193
+code: https://github.com/KawshikBanerjee/Compression-Propagation-Duality
 # website: https://leonidk.github.io/fmb-plus
 ---
 
-Using 6+ million peer-reviewed papers and 32+ million patent-to-paper citations, we systematically show that industry has a limited engagement in responsible AI research, despite dominating in conventional "cutting-edge" AI research.
+We study two fundamental compression paradigms, coarsening and sparsification, and ask whether they preserve the propagation behavior of the original graph. Across five datasets, varying compression rates, and propagation depths, we measure signal behavior through three complementary metrics.
